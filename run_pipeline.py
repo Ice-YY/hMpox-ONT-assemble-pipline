@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""Mpox ONT CPU pipeline (Python port of run_pipeline_hzcdcib2_cpu.sh).
-
-Usage:
-    python run_pipeline_hzcdcib2_cpu.py --raw hzcdcib-2.fastq.gz --ref ref.fasta
-"""
 
 import argparse
 import os
